@@ -1,24 +1,8 @@
-# README
+# Rails Tutorial App 
+#### Built by Dean Raguso - following codemy.com youtube video
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://deansrailsfriends.herokuapp.com/users/sign_up
 
-Things you may want to cover:
+My first Rails project, a simple social network setup. Has a login, uses a shared database online to track friends. Provides basic CRUD functionality. Makes use of bootstrap to make website presentable.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
